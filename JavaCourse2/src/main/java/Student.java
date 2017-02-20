@@ -1,12 +1,12 @@
-//package students.logic;
-
 import java.text.Collator;
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
 
+/**
+ * Created by Admin on 06.12.2016.
+ */
 public class Student implements Comparable {
-
     // поле ИД СТУДЕНТА
     private int studentId;
     // поле ИМЯ

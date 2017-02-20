@@ -1,7 +1,8 @@
-//package students.logic;
-
-public class Group {
-
+/**
+ * Created by Admin on 06.12.2016.
+ */
+public class Group
+{
     // поле ИД ГРУППЫ
     private int groupId;
     // поле ИМЯ ГРУППЫ
